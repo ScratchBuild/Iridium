@@ -1,5 +1,5 @@
 {
-    "language": "English (US)",
+    "language": "日本語",
     "section_titles": {
         "donate": "Support Iridium",
         "general": "General settings",
@@ -7,17 +7,17 @@
         "settings": "Iridium settings"
     },
     "sub_section_titles": {
-        "channel": "Channel",
+        "channel": "チャンネル",
         "blacklist": "Blacklist",
         "general": "General",
-        "language": "Language",
+        "language": "言語",
         "layout": "Layout",
         "miner": "Monero",
         "paypal": "Paypal",
         "patreon": "Patreon",
         "player": "Player",
-        "settings": "Settings",
-        "thumbnails": "Thumbnails"
+        "settings": "設定",
+        "thumbnails": "サムネイル"
     },
     "iridium_api": {
         "settings_button": "Iridium",
@@ -58,14 +58,14 @@
         "label": "Enable blacklist"
     },
     "blacklist_settings": {
-        "button_add_title": "Block",
-        "button_edit": "Edit",
-        "button_import": "Import",
-        "button_export": "Export",
-        "button_reset": "Reset",
-        "button_save": "Save",
-        "button_close": "Close",
-        "button_remove": "Remove from blacklist",
+        "button_add_title": "ブロック",
+        "button_edit": "編集",
+        "button_import": "インポート",
+        "button_export": "エクスポート",
+        "button_reset": "リセット",
+        "button_save": "保存",
+        "button_close": "閉じる",
+        "button_remove": "ブラックリストから削除",
         "placeholder": "Paste your new blacklist here",
         "confirm_reset": "You are about to reset your blacklist. It is advised to backup your current blacklist before continuing.\n\nDo you wish to contiue?\n\n",
         "reset_success": "Blacklist has been reset.\n\nChanges will be applied after a page refresh.\n\n",
@@ -129,7 +129,7 @@
         "label": "Enable quick controls",
         "button_auto_play": "Autoplay",
         "button_full_browser": "Full Browser",
-        "button_screen_shot": "Screen Shot",
+        "button_screen_shot": "スクリーンショット",
         "button_thumbnails": "Thumbnails",
         "thumbnails_title": "Click to download\nRight click for options",
         "screen_shot_title": "Right click for options",
@@ -168,11 +168,11 @@
         "label": "Use dark theme"
     },
     "iridium_user_settings": {
-        "button_save": "Save",
-        "button_close": "Close",
-        "button_export": "Export",
-        "button_import": "Import",
-        "button_reset": "Reset",
+        "button_save": "保存",
+        "button_close": "閉じる",
+        "button_export": "エクスポート",
+        "button_import": "インポート",
+        "button_reset": "リセット",
         "placeholder": "Paste your new settings here",
         "confirm_reset": "You are about to reset your settings. It is advised to backup your current settings before continuing.\n\nDo you wish to contiue?\n\n",
         "reset_success": "Settings have been reset.\n\nChanges will be applied after a page refresh.\n\n",
@@ -181,8 +181,8 @@
         "import_error": "Your settings could not be imported because they appear to be invalid.\n\n"
     },
     "iridium_language": {
-        "button_save": "Save",
-        "button_close": "Close",
+        "button_save": "保存",
+        "button_close": "閉じる",
         "confirm_save": "You are about to replace your extension language settings.\n\nDo you wish to continue?\n\n",
         "save_success": "New language saved successfully.\n\nChanges will be applied after a page refresh.\n\n",
         "save_error": "The new language could not be saved because it appears to be invalid.\n\n"
